@@ -1,0 +1,7 @@
+http://localhost:5000/api/ticket/viewOpen
+http://localhost:5000/api/ticket/viewClosed
+http://localhost:5000/api/ticket/5efa5024a5dabe33821c17af
+http://localhost:5000/api/ticket/5efa51b6a5dabe33821c17b1
+http://localhost:5000/api/admin/signup
+http://localhost:5000/api/admin/login
+http://localhost:5000/api/admin/reset
